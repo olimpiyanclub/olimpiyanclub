@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Photo 1",
+    "description": "18th August, Short day, open until 22:00 ",
+    "imageUrl": "https://i.ibb.co/Th1ttd3/p07ggsz9.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Photo 2",
+    "description": "21st August, Group aqua aerobics, for everyone ",
+    "imageUrl": "https://i.ibb.co/6ZqqHXx/ce09b35ce9cedf663d0b0b5c8ef55b18.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Photo 3",
+    "description": "27th August, swimming competition at 15:00 ",
+    "imageUrl": "https://i.ibb.co/WPrVy7H/swimming.jpg"
+  }
+
+]
