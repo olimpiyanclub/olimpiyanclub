@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "description": "Beginner Gym Guide (trainer winny)",
+        "videoUrl": "https://www.youtube.com/watch?v=U9ENCvFf9yQ"
+    },
+    {
+        "id": 2,
+        "description": "Exercises For Biceps With Dumbbells (GYM EXERCISES) ",
+        "videoUrl": "https://www.youtube.com/watch?v=bfOnjJtcaWs"
+    },
+    {
+        "id": 3,
+        "description": "8 Gym Exercises (YOU'RE DOING WRONG!) (Gravity Transformation) ",
+        "videoUrl": "https://www.youtube.com/watch?v=IcHek6FRbsI"
+    }
+]
