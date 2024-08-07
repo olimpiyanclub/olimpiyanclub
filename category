@@ -1,0 +1,83 @@
+{
+  "message": "",
+  "error": 0,
+  "data": {
+    "categories": [
+
+{
+        "id": 1,
+        "name": "Protein Сocktails",
+        "img": "https://i.ibb.co/brGMPJP/2024-05-02-16-00-52.png",
+        "price": 30,
+        "created_at": null,
+        "goods": [
+          
+          {
+            "id": 90,
+            "name": "strawberry protein shake",
+            "img": "https://i.ibb.co/mNvCBjN/1666023424-41-balthazar-club-p-klubnichnii-kokteil-vkontakte-53.jpg",
+            "price": 340,
+            "mass": "250g"
+          },
+			{
+            "id": 92,
+            "name": "chocolate protein shake",
+            "img": "https://i.ibb.co/fnZcz97/choco.jpg",
+            "price": 360,
+            "mass": "250g"
+          },
+
+          {
+            "id": 91,
+            "name": "protein shake cookies",
+            "img": "https://i.ibb.co/fxPm9rv/No-Bake-Shake-1.jpg",
+            "price": 370,
+            "mass": "250g"
+          },
+			{
+            "id": 93,
+            "name": "banana protein shake",
+            "img": "https://i.ibb.co/BrydjtS/maxresdefault.jpg",
+            "price": 370,
+            "mass": "250g"
+          }
+			
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Other",
+        "img": "https://i.ibb.co/brGMPJP/2024-05-02-16-00-52.png",
+        "price": 30,
+        "created_at": null,
+        "goods": [
+          
+          {
+            "id": 90,
+            "name": "Apple Fresh",
+            "img": "https://i.ibb.co/3FqKQkj/apple1.jpg",
+            "price": 480,
+            "mass": "200g"
+          },
+			{
+            "id": 92,
+            "name": "Orange Fresh",
+            "img": "https://i.ibb.co/SQLV7p1/orange.png",
+            "price": 520,
+            "mass": "250g"
+          },
+
+          {
+            "id": 91,
+            "name": "Carrot Fresh",
+            "img": "https://i.ibb.co/sq0sQZp/carrot-fresh.jpg",
+            "price": 550,
+            "mass": "250g"
+          }
+			
+        ]
+      }
+      
+    ]
+  }
+}
